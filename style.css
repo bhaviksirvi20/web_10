@@ -91,7 +91,7 @@ a:hover {
 .page1 {
     height: 100vh;
     width: 100%;
-    background-image: url(./p1.jpg);
+    background-image: url(./assets/p1.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -159,7 +159,7 @@ a:hover {
 .p2r {
     height: 80vh;
     width: 48.5%;
-    background-image: url(./p2.jpg);
+    background-image: url(./assets/p2.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -399,7 +399,7 @@ a:hover {
     height: 80vh;
     width: 50%;
     /* background-color: rgb(55, 0, 255); */
-    background-image: url(./p6.jpg);
+    background-image: url(./assets/p6.jpg);
     padding-inline: 200px;
     padding-block: 250px;
     background-position: center;
@@ -421,7 +421,7 @@ a:hover {
 .p7l {
     height: 80vh;
     width: 50%;
-    background-image: url(./p7.jpg);
+    background-image: url(./assets/p7.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -467,7 +467,7 @@ a:hover {
     height: 100vh;
     width: 100%;
     background-color: aliceblue;
-    background-image: url(./p9.jpg);
+    background-image: url(./assets/p9.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -587,7 +587,7 @@ a:hover {
     height: inherit;
     width: 19%;
     /* background-color: red; */
-    background-image: url(./01.jpg);
+    background-image: url(./assets/01.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -614,7 +614,7 @@ a:hover {
     height: inherit;
     width: 19%;
     /* background-color: red; */
-    background-image: url(./02.jpg);
+    background-image: url(./assets/02.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -625,7 +625,7 @@ a:hover {
     height: inherit;
     width: 19%;
     /* background-color: red; */
-    background-image: url(./03.jpg);
+    background-image: url(./assets/03.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -636,7 +636,7 @@ a:hover {
     height: inherit;
     width: 19%;
     /* background-color: red; */
-    background-image: url(./04.jpg);
+    background-image: url(./assets/04.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -647,7 +647,7 @@ a:hover {
     height: inherit;
     width: 19%;
     /* background-color: red; */
-    background-image: url(./05.jpg);
+    background-image: url(./assets/05.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
